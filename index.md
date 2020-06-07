@@ -61,12 +61,13 @@ Increase stipend/financial support, _at least_ for URM students. Low stipends ar
 
 ### Administration
 
-As soon as possible, hire at least 2 permanent coordinators. 
-- RE accountability, Akiko Iwasaki suggestions
+As soon as possible, hire at least two permanent coordinators. Reliable admin resources are required to ensure all students are well-supported, and when they fall short it is especially BIPOC students who suffer.
+
+Some students have drawn attention to [a recent opinion piece by Dr. Akiko Iwasaki] (see also the [supplementary materials](https://static-content.springer.com/esm/art%3A10.1038%2Fs41591-020-0831-6/MediaObjects/41591_2020_831_MOESM1_ESM.pdf)) in which she offers suggestions for improving accountability in graduate programs. Some of these policies could benefit BISB.
 
 ### Student participation
 
-Finally, students are eager to support program directors in their efforts to improve the program. To that end, it would be useful for students and directors to have conversations about:
+Students are eager to support program directors in their efforts to improve the program. To that end, it would be useful for students and directors to have conversations about:
 - With whom do the directors negotiate the conditions of the program?
 - What are the obstacles to student funding, admin hiring, etc?
 - How can students support the directors in pressuring / lobbying other parties?
